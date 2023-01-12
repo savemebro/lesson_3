@@ -14,3 +14,4 @@
 
 [link](https://www.google.com)
 
+![alt-foto](https://cybersport.metaratings.ru/storage/images/ae/34/ae3485265fec14436535f65ba0b5c08a.jpg)
