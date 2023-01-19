@@ -29,6 +29,6 @@ print('Привет')
 
 ___
 
-[![Evangelion](https://get.wallhere.com/photo/Neon-Genesis-Evangelion-Ikari-Shinji-Asuka-Langley-Soryu-Ayanami-Rei-1393299.jpg)](https://www.youtube.com/watch?v=6kguaGI7aZg&ab_channel=BatrickPateman)
+[![Evangelion](https://avatars.mds.yandex.net/get-kinopoisk-post-img/2268018/5bba4a9abb774a00adffbf6feac27f1f/1920x1080)](https://www.youtube.com/watch?v=KvMY1uzSC1E&ab_channel=Netflix)
 
 ![картинка](cyberpunk.jpg)
