@@ -32,7 +32,7 @@ print('Привет')
 |        |         |        |
 
 ## Цитата
-> Remember who you are.
+> Remember who you are & who you were.
 
 ___
 
