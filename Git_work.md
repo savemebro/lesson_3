@@ -4,6 +4,8 @@
 *I am slow walker*
 **but i never walker back**
 ~~I always walk back~~
+_**We continue to work on text selection in Markdown**_
+`Or so`
 
 ## Списки
 1. Hi
@@ -13,9 +15,12 @@
 * Hi
 * Hi again 
 * Hi it's me
++ Hello, friends!
+- Guten tag!
 
 ## Ссылка
 [link](https://www.google.com)
+<https://github.com>
 
 ## Картинка
 ![alt-foto](https://cybersport.metaratings.ru/storage/images/ae/34/ae3485265fec14436535f65ba0b5c08a.jpg)
